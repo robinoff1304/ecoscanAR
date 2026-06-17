@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: a033a0a586d75094191d5c463161bf9d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - lionPrefab: {fileID: 5162706932037280848, guid: 2cce03a5e9dec4d4186090de672b8ef8, type: 3}
+  - penguinPrefab: {fileID: 219182403631107384, guid: 593553f8a5521b548b45eb6167a6d070, type: 3}
+  - pandaPrefab: {fileID: 1390658922725030637, guid: a461f8f6294f8bf42ae2639444c5a080, type: 3}
+  - dolphinPrefab: {fileID: 6879701657872350464, guid: 76a4bba51df309c4cbf3439843d07e1e, type: 3}
+  - camelPrefab: {fileID: 2560336396367116667, guid: 1ef522d41147cd440ac0b1761ff7c852, type: 3}
+  - placementHint: {fileID: 2073811440453460595, guid: 5e79c41471e96764ca75496c44d3993e, type: 3}
+  - placementIndicator: {fileID: 1555226276902946440, guid: 05f7a78a8f10cc144864c8868512bb87, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

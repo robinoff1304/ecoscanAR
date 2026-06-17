@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/animalplacement.unity
+    guid: 76f9a0441e00bb843ae995a8f89fec41
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: da566d4bff46e5d48ada61b256210d61, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: d01204d046e877c4988e1335400099b5, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6a6edc6a08c4fe6468e33a38a20e840b, type: 2}
   m_UseUCBPForAssetBundles: 0
